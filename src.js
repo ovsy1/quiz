@@ -16,6 +16,7 @@ window.onload = function() {
   console.log(buttons)
   let counter = 0;
   let arrInk = 0;
+  paragraph.innerHTML = arrayOfStorage[0]
 
 
   const quiz = () => {
